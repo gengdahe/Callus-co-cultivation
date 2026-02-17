@@ -1,0 +1,8 @@
+﻿Statistical analysis of cultivated bacteria abundance (turbid wells) across three independent batches.,,,,,,,
+"Note:
+Data Presentation: Data are presented as Mean and Standard Deviation (SD) in separate columns.
+Statistical Analysis: Differences between TSB-only and Co_cultivation groups within each independent batch were analyzed using an unpaired two-sided Student’s t-test",,,,,,,
+Batch Date,TSB-only (Mean),TSB-only (SD),Co_cultivation (Mean),Co_cultivation (SD),t-value,P-value,Significance
+Apr-23,22 ,2 ,28 ,3 ,3.968,< 0.001,***
+Aug-23,22 ,2 ,26 ,3 ,3.408,0.007,**
+Mar-24,24 ,2 ,28 ,2 ,4.123,< 0.001,***

@@ -1,0 +1,16 @@
+﻿Statistical analysis of positive well counts in callus co-cultivation and TSB-only groups over time.,,,,,,,
+"Note:
+Data Presentation: Data are presented as Mean and Standard Deviation (SD) in separate columns (n=9 biological replicates). 
+Statistical Analysis: Differences between the Co_cultivation (callus-cocultivation) and TSB-only groups at each time point were assessed using a paired Student’s t-test. 
+Significance: Statistical significance levels are denoted as: ns, not significant (P > 0.05); *, P < 0.05; **, P < 0.01; ***, P < 0.001.",,,,,,,
+Time (Days),Co_cultivation (Mean),Co_cultivation (SD),TSB-only (Mean),TSB-only (SD),t-value,P-value,Significance
+1,0 ,0 ,0 ,0 ,0,1,ns
+2,8 ,2 ,6 ,2 ,2.604,0.031,*
+3,20 ,4 ,18 ,3 ,1.976,0.084,ns
+4,23 ,3 ,20 ,2 ,2.92,0.019,*
+5,25 ,3 ,22 ,2 ,3.506,0.008,**
+6,25 ,3 ,23 ,1 ,2.744,0.025,*
+7,26 ,2 ,23 ,2 ,3.371,0.01,**
+8,27 ,2 ,23 ,2 ,4.315,0.003,**
+9,28 ,2 ,24 ,2 ,5.327,< 0.001,***
+10,28 ,2 ,24 ,2 ,4.457,0.002,**

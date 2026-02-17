@@ -1,0 +1,15 @@
+﻿Summary of statistical analyses for Alpha and Beta diversity of bacterial communities,,,,,
+"Note: df: degrees of freedom; 
+H: statistic of Kruskal-Wallis test; 
+F: F-statistic;
+R²: coefficient of determination;
+P-values < 0.05 are considered statistically significant.
+Alpha Diversity: Statistical significance of differences among groups was evaluated using the Kruskal-Wallis H test (or Wilcoxon rank-sum test for pairwise comparisons).The table presents the test statistics and P-values for diversity indices (e.g., Shannon, Chao1).
+Beta Diversity: Analyses were performed based on the Bray-Curtis dissimilarity matrix.PERMANOVA (Permutational Multivariate Analysis of Variance) was used to test for significant differences in community composition among groups (999 permutations).
+PERMDISP (Permutational Analysis of Multivariate Dispersions) was conducted to test for homogeneity of multivariate dispersions. Non-significant PERMDISP results (P > 0.05) indicate homogenous dispersion, validating that the differences detected by PERMANOVA are driven by location effects (community composition) rather than dispersion effects.",,,,,
+Metric,Comparison,Test_Method,Test_Statistic,P_Value,Significance
+Shannon Index,Co_cultivation vs TSB-only,t-test,2.35,P = 0.032,*
+,,,,,
+Metric,Test,Statistic,P_Value,Significance,
+Bray-Curtis Dissimilarity,PERMANOVA (Community Structure),"F=3.33, R2=0.172",P = 0.001,*,
+Bray-Curtis Dissimilarity,PERMDISP (Dispersion),F=0.245,P = 0.61,ns,
