@@ -52,7 +52,7 @@ Generated figures and original GraphPad Prism files.
 ## Software Versions
 
 **R Environment**
-- Version: R 4.4.1 (2024-06-14 ucrt) "Race for Your Life"
+- Version: R 4.4.1
 - Platform: x86_64-w64-mingw32
 
 **Microbiome Analysis**
